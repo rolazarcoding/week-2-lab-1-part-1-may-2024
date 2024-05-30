@@ -26,9 +26,9 @@ A simple HTML project to practice HTML tags like H1, H2, ARTICLE, EM, and STRONG
 - [x] Create Readme
 - [x] Create index.html
 - [x] Create cats.html
-- [ ] Update README author
-- [ ] Create dogs.html
-- [ ] Create an H1 tag in dogs.html
+- [x] Update README author
+- [x] Create dogs.html
+- [x] Create an H1 tag in dogs.html
 - [ ] Create a P tag in dogs.html
 - [ ] Create an ARTICLE tag in dogs.html
 - [ ] Create an H2 and two P tags nested inside the ARTICLE tag
@@ -45,7 +45,7 @@ You may choose to do a bonus or extension. These are optional activities that wi
 
 ## Contact
 
-Author: robert.mccreary@codex.academy
+Author: rolazar.aberin@codex.academy
 
 ## Acknowledgements
 
